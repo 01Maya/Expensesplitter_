@@ -18,7 +18,7 @@ Easily add participants, record expenses, and instantly see who owes whom — wi
 
 - **Live Calculation**
   - Instant updates showing how much each person owes or should receive.
-  - Clear summary in the format: `Mansi owes ₹200 to Riya`.
+  - Clear summary in the format: `John owes ₹200 to Joe`.
   - Color-coded amounts — red for owed, green for received.
 
 - **Data Persistence**
