@@ -62,7 +62,7 @@ Easily add participants, record expenses, and instantly see who owes whom — wi
 
 ## Preview
 
-
+https://expensesplitterrr.vercel.app/
 
 ---
 
